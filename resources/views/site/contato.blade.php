@@ -99,7 +99,7 @@
                   </div>
                   <div class="icon-box-content">
                     <p class="mb-1">Email.
-                      <span class="color-a">contato@rtflake.com</span>
+                      <span class="color-a">rtflake@rtflake.com</span>
                     </p>
                     <p class="mb-1">Telefone.
                       <span class="color-a">+55 479 8819-2786</span>
