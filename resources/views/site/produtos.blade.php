@@ -103,15 +103,15 @@
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="#">Flake de PET
-                      <br /> com até 20% azul</a>
+                    <a href="#">Verde PET
+                      <br /> Flake de garrafas</a>
                   </h2>
                 </div>
                 <div class="card-body-a">
                   <div class="price-box d-flex">
                     <span class="price-a">Consulte | R$ </span>
                   </div>
-                  <a href="property-single.html" class="link-a">Solicitar Cotação
+                  <a href="/contato" class="link-a">Solicitar Cotação
                     <span class="ion-ios-arrow-forward"></span>
                   </a>
                 </div>
@@ -158,7 +158,7 @@
                   <div class="price-box d-flex">
                     <span class="price-a">Consulte | R$ </span>
                   </div>
-                  <a href="property-single.html" class="link-a">Solicitar Cotação
+                  <a href="/contato" class="link-a">Solicitar Cotação
                     <span class="ion-ios-arrow-forward"></span>
                   </a>
                 </div>

@@ -25,4 +25,9 @@ class sitecontroller extends Controller
    {
        return view('site.contato');
    }
+   
+   public function cotmasterplast()
+   {
+       return view('site.cotmasterplast');
+   }
 }
