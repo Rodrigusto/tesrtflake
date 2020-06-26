@@ -56,8 +56,8 @@
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="#">Cristal PET
-                      <br /> Flake de garrafas</a>
+                    <a href="cotacaoflakecristal">Cristal flake
+                      <br /> Garrafas PET</a>
                   </h2>
                 </div>
                 <div class="card-body-a">
@@ -103,8 +103,8 @@
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="#">Verde PET
-                      <br /> Flake de garrafas</a>
+                    <a href="#">Verde flake
+                      <br /> Garrafas PET</a>
                   </h2>
                 </div>
                 <div class="card-body-a">
@@ -150,15 +150,15 @@
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="#">Flake Cristal
-                      <br /> 10% de azul claro</a>
+                    <a href="cotacaoflakecristal">Cristal blue
+                      <br /> 10% PET azul</a>
                   </h2>
                 </div>
                 <div class="card-body-a">
                   <div class="price-box d-flex">
                     <span class="price-a">Consulte | R$ </span>
                   </div>
-                  <a href="/cotflcristal" class="link-a"> Cotação
+                  <a href="/cotacaoflakecristal" class="link-a"> Cotação
                     <span class="ion-ios-arrow-forward"></span>
                   </a>
                 </div>
