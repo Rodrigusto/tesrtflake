@@ -64,7 +64,7 @@
                   <div class="price-box d-flex">
                     <span class="price-a">Consulte | R$ </span>
                   </div>
-                  <a href="/contato" class="link-a">Solicitar cotação
+                  <a href="/cotacaoflakecristal" class="link-a"> Cotação
                     <span class="ion-ios-arrow-forward"></span>
                   </a>
                 </div>
@@ -111,7 +111,7 @@
                   <div class="price-box d-flex">
                     <span class="price-a">Consulte | R$ </span>
                   </div>
-                  <a href="/contato" class="link-a">Solicitar Cotação
+                  <a href="/cotacaoflakeverde" class="link-a"> Cotação
                     <span class="ion-ios-arrow-forward"></span>
                   </a>
                 </div>
@@ -151,14 +151,14 @@
                 <div class="card-header-a">
                   <h2 class="card-title-a">
                     <a href="#">Flake Cristal
-                      <br /> Isento de Pó -1%</a>
+                      <br /> 10% de azul claro</a>
                   </h2>
                 </div>
                 <div class="card-body-a">
                   <div class="price-box d-flex">
                     <span class="price-a">Consulte | R$ </span>
                   </div>
-                  <a href="/contato" class="link-a">Solicitar Cotação
+                  <a href="/cotflcristal" class="link-a"> Cotação
                     <span class="ion-ios-arrow-forward"></span>
                   </a>
                 </div>
