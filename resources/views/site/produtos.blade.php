@@ -103,8 +103,8 @@
               <div class="card-overlay-a-content">
                 <div class="card-header-a">
                   <h2 class="card-title-a">
-                    <a href="#">Verde flake
-                      <br /> Garrafas PET</a>
+                    <a href="/cotacaoflakeverde">Verde flake
+                      <br /> Garrafas PET </a>
                   </h2>
                 </div>
                 <div class="card-body-a">

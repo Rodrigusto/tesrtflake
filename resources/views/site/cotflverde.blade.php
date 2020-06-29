@@ -190,7 +190,7 @@
               <div class="property-price d-flex justify-content-center foo">
                 <div class="card-header-c d-flex">
                   <div class="card-box-ico">
-                    <span class="ion-money"> R$ <br/> 3,60 </span>
+                    <span class="ion-money"> R$ <br/> 4,10 </span>
                   </div>
                   <div class="card-title-c align-self-center">
                     <h5 class="title-c"> <br/> <br/> </h5>
